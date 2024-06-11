@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* 공통 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* 네비게이션 바 스타일 */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* 버튼 스타일 */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+/* 추가적인 공통 스타일을 여기에 작성합니다. */

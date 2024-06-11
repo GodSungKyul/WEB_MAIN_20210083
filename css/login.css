@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* 로그인 폼을 가운데 정렬 */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* 로그인 카드의 너비 조정 */
+.card {
+    width: 100%;
+    max-width: 400px;
+}
+
+/* 로그인 폼의 간격 조정 */
+.card-body {
+    padding: 30px;
+}
+
+/* 로그인 버튼의 높이 조정 */
+.btn-primary {
+    height: 48px;
+}
+
+/* 배경색 변경 */
+.bg-light {
+    background-color: #f8f9fa !important;
+}
